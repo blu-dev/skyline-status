@@ -1,0 +1,13 @@
+[package]
+name = "skyline_status"
+version = "0.1.0"
+authors = ["Peter <pho@buhao.cc>"]
+edition = "2018"
+
+[package.metadata.skyline]
+plugin-dependencies = [
+]
+
+[dependencies]
+skyline_smash = { git = "https://github.com/ultimate-research/skyline-smash.git" }
+status_proc = { path = "status_proc" }
