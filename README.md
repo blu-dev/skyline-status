@@ -47,8 +47,8 @@ pub fn main() {
 [package.metadata.skyline]
 titleid = "01006A800016E000"
 plugin-dependencies = [
-    { name = "libnro_hook.nro", url = "https://github.com/ultimate-research/nro-hook-plugin/releases/download/v0.1.1/libnro_hook.nro" },
-    { name = "libstatus_hook.nro", url = "https://github.com/PeterHo8888/status_hook/releases/download/v0.1.0/libstatus_hook.nro" },
+    { name = "libnro_hook.nro", url = "https://github.com/ultimate-research/nro-hook-plugin/releases/download/master/libnro_hook.nro" },
+    { name = "libstatus_hook.nro", url = "https://github.com/PeterHo8888/status_hook/releases/download/master/libstatus_hook.nro" },
 ]
 ...
 [dependencies]
