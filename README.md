@@ -1,6 +1,10 @@
 # skyline-status
 Status script replacements for Smash Ultimate
 
+Note: You **\*need\*** to install the latest build of `libnro_hook.nro` from [here](https://github.com/ultimate-research/nro-hook-plugin/releases/tag/master).
+
+If you don't, your game _will_ crash on boot!  You have been warned!
+
 ## Example Usage
 ```rust
 #![feature(proc_macro_hygiene)]
