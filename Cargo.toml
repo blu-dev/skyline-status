@@ -9,5 +9,5 @@ plugin-dependencies = [
 ]
 
 [dependencies]
-skyline_smash = { git = "https://github.com/ultimate-research/skyline-smash.git" }
+skyline_smash = { git = "https://github.com/blu-dev/skyline-smash.git" }
 status_proc = { path = "status_proc" }
